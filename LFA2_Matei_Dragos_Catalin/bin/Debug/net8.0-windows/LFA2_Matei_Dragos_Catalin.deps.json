@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LFA2_Matei_Dragos_Catalin/1.0.0": {
+        "runtime": {
+          "LFA2_Matei_Dragos_Catalin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LFA2_Matei_Dragos_Catalin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
